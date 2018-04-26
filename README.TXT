@@ -1,3 +1,5 @@
+收获：DAO思想，maven创建项目添加依赖，jdbctemplate，IOC/DI,sql语句。
+
 用spring的jdbctemplate编写简单的DAO。
 DAO接口和实现分开。 数据库信息配置在applicationContext.xml中（反射，IOC/DI）
 将jdbctemplate的对象创建交给spring框架，注入对象dataSource（数据库信息）。
